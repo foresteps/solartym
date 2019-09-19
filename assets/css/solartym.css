@@ -127,7 +127,7 @@
     
     .tunnel {
         padding: 20px;
-        border-top: 5px solid #f5b208;
+        /* border-top: 5px solid #f5b208; */
         border-bottom: 5px solid #f5b208;
     }
     
@@ -210,10 +210,16 @@
     
     .bg-yellow {
         background-color: #f5b208;
+        padding: 30px 0;
     }
     
     .service-separator {
         margin-bottom: 30px;
+    }
+    
+    .pull-up {
+        margin-top: -70px;
+        margin-bottom: 70px;
     }
     
     .gap {
